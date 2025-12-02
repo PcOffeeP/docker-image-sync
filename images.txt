@@ -1,7 +1,5 @@
 # 这里是镜像列表，每行一个镜像名
 python:3.9-slim
-python:3.13-slim-bookworm
-pytorch/pytorch:2.4.0-cuda12.1-cudnn9-runtime
-pytorch/pytorch:2.7.1-cuda12.8-cudnn9-runtime
+redis:7.2.6
 
 # 此处一定要有一行空行
